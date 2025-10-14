@@ -1,6 +1,7 @@
 # PdevGiveall
 A Script to easily give items to the whole server
 
+QBCORE AND QBOX ONLY
 
 Drag into Standalone Folder
 
